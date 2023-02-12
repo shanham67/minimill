@@ -1,0 +1,26 @@
+;g20 g64
+s3400 m3
+g0z1
+g0x0y0z1
+g0 x5 y20
+g1 z-1 f250
+g1 x5 y5
+g1 x15
+g0 z1
+g0 x20 y20
+g1 z-1
+g1 y5
+g1 x30
+g1 y20
+g0 z1
+g0 x35
+g1 z-1
+g1 y5
+g1 x45
+g0 z1
+g0 x50 y20
+g1 z-1
+g1 y5
+g1 x60
+g1 y20
+m2
